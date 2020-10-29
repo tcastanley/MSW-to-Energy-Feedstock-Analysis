@@ -49,13 +49,15 @@
  
  ## Methodology
  The data was labeled by calculating the <b>Net Heating Value</b> for each households specific MSW sample.  Each sample's
- compositions wt% was needed for this calculation, manipulation and reformatting of the dataset was required before
- this could be completed.  Once derived, these values were then factored into the necessary formulas for a <b>Proximate 
- Elemental Analysis</b>, thereby resulting in an Energy Density (kWh/kg) estimation.
+ compositions wt% was needed for this calculation, feature engineering and reformatting of the original datasets was required before
+ this could be completed.  Once derived, these values were then factored into the necessary formulas incorporating formulas
+ from a <b>Proximate Elemental Analysis</b> (<i>"Municipal Solid Waste to Energy Conversion Process", Garcy C. Young ,
+ 2010, pg.146 </i>), thereby resulting in an Energy Density (kWh/kg) estimation.
  
- ## Sample Visualizations: Belize
- 
+ ## Sample Visualizations
+
  ![png](Image_Files/EDA_Visualizations/belize_folium_map.PNG)
- 
+
  ![png](Image_Files/EDA_Visualizations/output_38_1.png)
  
+ ![png](Image_Files/Combined_Model_Total_Energy/output_80_0.png)
