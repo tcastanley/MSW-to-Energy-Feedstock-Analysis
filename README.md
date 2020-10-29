@@ -1,4 +1,4 @@
-# MSW-to-Energy-Feedstock-Analysis
+# MSW to Energy - Feedstock Analysis
 
 ## Summary
  This project analyzes <b>Energy Density (kWh/kg)</b> and <b>Total Household MSW Energy (kWh)</b> from <b>Municipal
