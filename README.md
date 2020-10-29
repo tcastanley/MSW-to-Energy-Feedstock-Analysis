@@ -20,7 +20,9 @@
  ### Energy Density (kWh/kg)
  Median Energy Density per Household: <b>2.03 kWh/kg</b>
  
- Top Performing Model RMSE: <b>+/- 0.22 kWh/kg</b>
+ Top Performing Model: <b>Neural Network</b>
+ 
+ RMSE: <b>+/- 0.22 kWh/kg</b>
  
   ![png](Image_Files/Combined_Model_Energy_Density/output_104_0.png)
   
@@ -31,7 +33,9 @@
  ### Total Household MSW Energy (kWh/kg)
  Median MSW Energy per Household: <b>10.85 kWh</b>
  
- Top Performing Model RMSE: <b>+/- 0.70 kWh</b>
+ Top Performing Model: <b>Neural Network</b>
+ 
+ RMSE: <b>+/- 0.70 kWh</b>
  
  ![png](Image_Files/Combined_Model_Total_Energy/output_105_0.png)
  
