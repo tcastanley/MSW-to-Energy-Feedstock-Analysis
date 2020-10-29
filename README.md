@@ -41,7 +41,7 @@
  
  ## Model Comparisons
  
- ![png](Image_Files/EDA_Visualizations/Model_Comparisons.png)
+ ![png](Image_Files/EDA_Visualizations/model_comps.png)
  
  ## Methodology
  The data was labeled by calculating the <b>Net Heating Value</b> for each households specific MSW sample.  Each sample's
@@ -51,7 +51,7 @@
  
  ## Sample Visualizations: Belize
  
- ![png](Image_Files/EDA_Visualizations/Belize_Map.png)
+ ![png](Image_Files/EDA_Visualizations/belize_folium_map.png)
  
  ![png](Image_Files/EDA_Visualizations/output_38_1.png)
  
