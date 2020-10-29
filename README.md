@@ -41,7 +41,7 @@
  
  ## Model Comparisons
  
- ![png](Image_Files/Model_Comparison.png)
+ ![png](Image_Files/Model_Comparisons.png)
  
  ## Methodology
  The data was labeled by calculating the <b>Net Heating Value</b> for each households specific MSW sample.  Each sample's
