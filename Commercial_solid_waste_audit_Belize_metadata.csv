@@ -1,0 +1,62 @@
+﻿ID,Date,Premisestype,Location,BusinessType,Other_notes,Locationlat,Locationlong,Whocollectstherubbish,Collectionperiod,Accumulationtimenum,Collectionrating,Wastedisposalgreen,Wastedisposalgeneral,Comments,Collected,NumberofEmployees,FloorSpace,FloorSpaceUnits,NumberofRooms
+29,05/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.492111,-88.187206,private,p_week,7.00000000000000,3,disp_collect,disp_collect,The business suggested that city council could clean more often. The business makes signs,0.25000000000000,16,,,7
+32,05/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,,17.505876,-88.189038,private,p_3days,3.50000000000000,3,disp_collect,disp_collect,,1.00000000000000,2,,,1
+21,04/06/2019 00:00:00,pt_commercial,Dangriga,Retail_shop,,,,,,,,,,,1.00000000000000,,,,
+22,04/06/2019 00:00:00,pt_commercial,Dangriga,Retail_shop,,16.967476,-88.24213,council,p_week,7.00000000000000,4,disp_collect,disp_collect,,1.00000000000000,1,0,,3
+23,04/06/2019 00:00:00,pt_commercial,Dangriga,Admin,School,16.967476,-88.24213,council,p_week,7.00000000000000,4,other,disp_collect,Epworth school,0.05882352900000,28,0,,30
+24,04/06/2019 00:00:00,pt_commercial,Dangriga,Food_outlet,,16.967476,-88.24213,council,p_week,7.00000000000000,4,other,disp_collect,,1.00000000000000,5,0,,4
+25,04/06/2019 00:00:00,pt_commercial,Dangriga,Admin,Council,,,,,,,,,,0.20000000000000,,,,
+33,05/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,,17.515407,-88.202433,private,p_3days,3.50000000000000,5,disp_collect,disp_collect,,0.10000000000000,17,0,,1
+31,05/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,,17.50848,-88.190866,council,p_week,7.00000000000000,5,disp_collect,disp_collect,,1.00000000000000,2,,,8
+27,05/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.500143,-88.18934,council,p_week,7.00000000000000,5,disp_collect,disp_collect,Gas Station,0.10000000000000,8,,,2
+28,05/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,,17.504116,-88.198785,council,p_week,7.00000000000000,5,disp_collect,disp_collect,,0.10000000000000,6,,,2
+26,05/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.497136,-88.185127,private,p_week,7.00000000000000,5,disp_collect,disp_collect,Nail salon_premise type,0.33333333300000,3,0,,1
+35,06/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,,17.510692,-88.190257,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,Ice cream parlor,1.00000000000000,3,,,3
+34,05/06/2019 00:00:00,pt_commercial,Belize City,Admin,,17.51296,-88.19574,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,,0.20000000000000,21,,,2
+36,06/06/2019 00:00:00,pt_commercial,Belize City,Admin,"School, 1/3 is cardboard",17.506693,-88.197567,council,p_3days,3.50000000000000,5,other,disp_collect,School,0.10000000000000,40,,,20
+38,06/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.503953,-88.196194,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,,0.05000000000000,12,,,
+37,06/06/2019 00:00:00,pt_commercial,Belize City,Hotels,,17.505943,-88.200087,private,p_week,7.00000000000000,4,disp_collect,disp_collect,,0.33000000000000,11,,,73
+40,06/06/2019 00:00:00,pt_commercial,Belize City,Admin,Library,17.509524,-88.206254,council,p_3days,3.50000000000000,4,disp_collect,disp_collect,,0.16666666700000,25,,,
+39,06/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,Car shop next to 96 shopping centre,17.505944,-88.200087,private,p_week,7.00000000000000,4,other,disp_collect,,0.05000000000000,3,0,,8
+42,06/06/2019 00:00:00,pt_commercial,Belize City,Other,Medical centre,17.511542,-88.20244,private,p_3days,3.50000000000000,5,disp_collect,disp_collect,,0.08333333300000,11,,,7
+41,06/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,Green market food stand (in yellow?) across from healthcare partners,17.512647,-88.203081,private,p_week,7.00000000000000,5,disp_collect,disp_collect,,0.30000000000000,2,0,,1
+43,06/06/2019 00:00:00,pt_commercial,Belize City,Admin,,17.488005,-88.200802,private,p_3days,3.50000000000000,5,disp_collect,disp_collect,,,105,,,115
+45,06/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.511404,-88.203578,council,p_week,7.00000000000000,4,disp_collect,disp_collect,,0.50000000000000,4,0,,3
+47,06/06/2019 00:00:00,pt_commercial,Belize City,Other,,17.507323,-88.189522,private,p_3days,3.50000000000000,4,disp_collect,disp_collect,Some times garbage is left behind,,2,1,,1
+49,06/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.510617,-88.211425,council,p_week,7.00000000000000,1,disp_collect,disp_collect,They believe that the garbage collectors should provide incentives to separate garbage and they should collect during non business hours,,3,,,2
+44,06/06/2019 00:00:00,pt_commercial,Belize City,Food_outlet,,17.511542,-88.20244,council,p_3days,3.50000000000000,4,disp_collect,disp_collect,Pick up time uncertain,0.75000000000000,2,,,2
+46,06/06/2019 00:00:00,pt_commercial,Belize City,Admin,University,17.509652,-88.197872,private,p_week,7.00000000000000,5,disp_collect,disp_collect,School,0.10000000000000,10,,,12
+48,06/06/2019 00:00:00,pt_commercial,Belize City,,,,,,,,,,,,,,,,
+50,07/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.500416,-88.198734,private,p_week,7.00000000000000,4,disp_collect,disp_collect,Sometimes does not clean good and sometimes misses the shop.,0.35000000000000,1,,,2
+52,07/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.489723,-88.201222,council,p_week,7.00000000000000,3,disp_collect,disp_collect,,0.33333333300000,2,,,3
+54,07/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.484902,-88.199394,private,p_3days,3.50000000000000,4,disp_collect,disp_collect,,1.30000000000000,2,0,,2
+51,07/06/2019 00:00:00,pt_commercial,Belize City,Admin,,17.497063,-88.195435,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,Police,0.50000000000000,2,,,2
+53,07/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.493171,-88.194322,council,p_week,7.00000000000000,4,disp_collect,disp_collect,One pickup during the week is too little. Increase the number of pickups.,0.16666666700000,3,,,
+551,07/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.492111,-88.187206,council,p_week,7.00000000000000,5,other,disp_collect,,1.00000000000000,7,,,1
+30,05/06/2019 00:00:00,pt_commercial,Belize City,Retail_shop,,17.50783,-88.189515,private,p_week,7.00000000000000,5,other,disp_collect,,0.50000000000000,1,0,,1
+1,31/05/2019 00:00:00,pt_commercial,Belmopan,Food_outlet,,17.251106,-88.773744,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,Satisfied,0.50000000000000,3,1,sq_feet,4
+2,31/05/2019 00:00:00,pt_commercial,Belmopan,Supermarket,,17.250079,-88.782679,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,They would recommend at least 3x per week,1.00000000000000,2,,,2
+3,31/05/2019 00:00:00,pt_commercial,Belmopan,Supermarket,,17.255616,-88.786198,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,None,0.03733333300000,7,200,sq_feet,3
+4,31/05/2019 00:00:00,pt_commercial,Belmopan,Hotels,,17.25122,-88.78535,council,p_2days,2.00000000000000,5,disp_collect,disp_collect,Satisfied,0.15384615400000,4,,,25
+5,31/05/2019 00:00:00,pt_commercial,Belmopan,Food_outlet,,17.250028,-88.782051,council,p_2days,2.00000000000000,5,disp_collect,disp_collect,Satisfied h,0.14285714300000,5,,,3
+6,31/05/2019 00:00:00,pt_commercial,Belmopan,Retail_shop,,17.245259,-88.776542,council,p_3days,3.50000000000000,5,disp_collect,disp_collect,Gas station - call to pick up sometimes cause it run over,1.00000000000000,20,180,sq_feet,12
+7,31/05/2019 00:00:00,pt_commercial,Belmopan,Retail_shop,,17.246844,-88.784503,council,p_3days,3.50000000000000,4,other,disp_collect,Car wash - sometimes they don’t for a week,0.50000000000000,2,3,,2
+8,31/05/2019 00:00:00,pt_commercial,Belmopan,Admin,,17.241858,-88.782167,council,p_week,7.00000000000000,5,disp_collect,disp_collect,No issues,1.00000000000000,4,200,sq_feet,7
+9,31/05/2019 00:00:00,pt_commercial,Belmopan,Supermarket,,17.242498,-88.778085,council,p_2days,2.00000000000000,5,disp_collect,disp_collect,They’re ok with it,0.03692307700000,5,280,sq_feet,3
+10,31/05/2019 00:00:00,pt_commercial,Belmopan,Admin,The assembly building,,,,,,,,,,0.12500000000000,,,,
+63,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Food_outlet,,16.25123,-88.89396,private,other,,3,other,disp_burn,There is no system in place,,1,60,sq_feet,1
+65,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Retail_shop,,16.151269,-88.873455,council,p_fortnight,14.00000000000000,5,other,disp_land_dump,Usually would initiate a clean up campaign within the community but the village council needs or can do much more. Needs more education about waste management with the younger generation,,3,1000,sq_feet,1
+67,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Retail_shop,,16.174465,-88.898485,private,p_2days,2.00000000000000,1,disp_land_dump,disp_burn,Mostly plastic and card board boxes are disposed in a spot but it doesn't agree with their system...would prefer their waste collected for environmental concerns,,3,10,sq_yard,2
+69,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Admin,,16.151269,-88.873455,private,p_1day,1.00000000000000,4,other,disp_burn,Intend to implement a recycling program,,10,5000,sq_feet,12
+64,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Admin,,16.269261,-88.880678,private,other,,5,other,disp_burn,,,7,1500,sq_feet,5
+66,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Food_outlet,,16.278081,-88.893328,private,other,,3,other,disp_burn,Need a better system that can collect waste,,2,120,sq_feet,1
+68,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Retail_shop,,16.151269,-88.873455,private,p_1day,1.00000000000000,3,other,disp_burn,Individual would prefer for the waste to be collected and dispose by a service provider,,2,480,sq_feet,2
+62,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Admin,,16.258153,-88.883703,private,other,,3,other,disp_burn,Would like the system organized so that waste is collected,,18,900,sq_feet,1
+56,11/06/2019 00:00:00,pt_commercial,Corozal Town,Retail_shop,,18.39126,-88.400185,council,p_week,7.00000000000000,5,disp_collect,disp_collect,The person did not want us to take a picture of her house after we did the interview,0.75000000000000,2,25,sq_metre,2
+58,11/06/2019 00:00:00,pt_commercial,Corozal Town,Food_outlet,,18.392398,-88.390544,council,p_3days,3.50000000000000,4,disp_collect,disp_collect,All Good!,1.00000000000000,3,40,sq_metre,1
+60,11/06/2019 00:00:00,pt_commercial,Corozal Town,Retail_shop,,18.395315,-88.389883,council,p_week,7.00000000000000,2,disp_collect,disp_collect,Town council should have a more scheduled time to come pick up garbage,0.50000000000000,2,90,sq_metre,1
+55,11/06/2019 00:00:00,pt_commercial,Corozal Town,Admin,,18.389292,-88.39832,council,p_week,7.00000000000000,4,disp_collect,disp_collect,They see no problem in waste collection,0.66666666700000,1,90,sq_metre,1
+55,11/06/2019 00:00:00,pt_commercial,Corozal Town,Admin,,18.389292,-88.39832,council,p_week,7.00000000000000,4,disp_collect,disp_collect,They see no problem in waste collection,0.66666666700000,1,90,sq_metre,1
+57,11/06/2019 00:00:00,pt_commercial,Corozal Town,Admin,,18.387698,-88.390581,council,p_week,7.00000000000000,4,disp_collect,other,None,1.00000000000000,1,150,sq_metre,3
+59,11/06/2019 00:00:00,pt_commercial,Corozal Town,Retail_shop,,18.394824,-88.38947,council,p_3days,3.50000000000000,3,other,disp_collect,Provide better garbage collection service provided food is sold nearby,0.50000000000000,3,125,sq_metre,1
+61,14/06/2019 00:00:00,pt_commercial,Toledo Rural,Admin,,16.151269,-88.873455,private,p_fortnight,14.00000000000000,3,disp_land_dump,other,,,6,1500,,3
