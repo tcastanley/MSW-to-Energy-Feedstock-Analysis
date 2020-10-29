@@ -22,26 +22,26 @@
  
  Top Performing Model RMSE: <b>+/- 0.22 kWh/kg</b>
  
-  ![png](README_Files/Combined_Model_Energy_Density/output_104_0.png)
+  ![png](Image_Files/Combined_Model_Energy_Density/output_104_0.png)
   
-  ![png](README_Files/Combined_Model_Energy_Density/output_104_1.png)
+  ![png](Image_Files/Combined_Model_Energy_Density/output_104_1.png)
   
-  ![png](README_Files/Combined_Model_Energy_Density/output_104_2.png)
+  ![png](Image_Files/Combined_Model_Energy_Density/output_104_2.png)
 
  ### Total Household MSW Energy (kWh/kg)
  Median MSW Energy per Household: <b>10.85 kWh</b>
  
  Top Performing Model RMSE: <b>+/- 0.70 kWh</b>
  
- ![png](README_Files/Combined_Model_Total_Energy/output_105_0.png)
+ ![png](Image_Files/Combined_Model_Total_Energy/output_105_0.png)
  
- ![png](README_Files/Combined_Model_Total_Energy/output_105_1.png)
+ ![png](Image_Files/Combined_Model_Total_Energy/output_105_1.png)
  
- ![png](README_Files/Combined_Model_Total_Energy/output_105_2.png)
+ ![png](Image_Files/Combined_Model_Total_Energy/output_105_2.png)
  
  ## Model Comparisons
  
- ![png](README_Files/Model_Comparison.png)
+ ![png](Image_Files/Model_Comparison.png)
  
  ## Methodology
  The data was labeled by calculating the <b>Net Heating Value</b> for each households specific MSW sample.  Each sample's
@@ -51,7 +51,7 @@
  
  ## Sample Visualizations: Belize
  
- ![png](README_Files/EDA_Visualizations/Belize_Map.png)
+ ![png](Image_Files/EDA_Visualizations/Belize_Map.png)
  
- ![png](README_Files/EDA_Visualizations/output_38_1.png)
+ ![png](Image_Files/EDA_Visualizations/output_38_1.png)
  
