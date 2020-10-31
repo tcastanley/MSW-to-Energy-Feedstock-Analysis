@@ -14,6 +14,13 @@
  feedstock composition is critical for the initial facility design and therefore its future operations and revenue 
  generating capabilities.
  
+ ## Methodology
+ The data was labeled by calculating the <b>Net Heating Value</b> for each households specific MSW sample.  Each sample's
+ compositions wt% was needed for this calculation, feature engineering and reformatting of the original datasets was required before
+ this could be completed.  Once derived, these values were then factored into the necessary formulas using a <b>Proximate Elemental Analysis</b> 
+ (<i>"Municipal Solid Waste to Energy Conversion Process", Gary C. Young , 2010, pg.146 </i>), thereby resulting in an 
+ Energy Density (kWh/kg) estimation.
+ 
  ## Results
  Energy Density and Total Household MSW Energy were calculated using each sample's specific <b>Net Heating Value</b>.
  
@@ -50,13 +57,6 @@
  ## Model Comparisons
  
  ![png](Image_Files/EDA_Visualizations/model_comps.PNG)
- 
- ## Methodology
- The data was labeled by calculating the <b>Net Heating Value</b> for each households specific MSW sample.  Each sample's
- compositions wt% was needed for this calculation, feature engineering and reformatting of the original datasets was required before
- this could be completed.  Once derived, these values were then factored into the necessary formulas using a <b>Proximate Elemental Analysis</b> 
- (<i>"Municipal Solid Waste to Energy Conversion Process", Gary C. Young , 2010, pg.146 </i>), thereby resulting in an 
- Energy Density (kWh/kg) estimation.
  
  ## Sample Visualizations
 
