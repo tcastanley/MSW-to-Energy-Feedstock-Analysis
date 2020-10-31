@@ -32,7 +32,7 @@
   
   ![png](Image_Files/Combined_Model_Energy_Density/output_104_2.png)
 
- ### Total Household MSW Energy (kWh/kg)
+ ### Total Household MSW Energy (kWh)
  Median MSW Energy per Household: <b>10.85 kWh</b>
  
  Top Performing Model: <b>Neural Network, Trainable Parameters: 2092</b>
