@@ -22,7 +22,6 @@
  Energy Density (kWh/kg) estimation.
  
  ## Results
- Energy Density and Total Household MSW Energy were calculated using each sample's specific <b>Net Heating Value</b>.
  
  ### Energy Density (kWh/kg)
  Median Energy Density per Household: <b>2.03 kWh/kg</b>
