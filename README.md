@@ -1,8 +1,8 @@
 # MSW to Energy - Feedstock Analysis
 
 ## Summary
- This project's <b>Feedstock Analysis</b> measures <b>Energy Density (kWh/kg)</b> and <b>Total Household MSW Energy (kWh)</b> from <b>Municipal
- Solid Waste (MSW)</b> data collected from Belize, Solomon Islands, and Vanuatu. 
+ This project's <b>Feedstock Analysis</b> measures <b>Energy Density (kWh/kg)</b> and <b>Total Household MSW Energy (kWh)</b> in <b>Municipal
+ Solid Waste (MSW)</b> sample data collected from Belize, Solomon Islands, and Vanuatu. 
  
  This data was collected by the <b>Asia Pacific Water Consultants (APWC)</b>, commissioned by the <b>Commonwealth Litter Programme (CLiP)</b>
  with support from the <b> Centre for Environment Fisheries and Aquaculture Science (CEFAS)</b>. The original purpose for 
