@@ -6,7 +6,7 @@
  
  This data was collected by the <b>Asia Pacific Water Consultants (APWC)</b>, commissioned by the <b>Commonwealth Litter Programme (CLiP)</b>
  with support from the <b> Centre for Environment Fisheries and Aquaculture Science (CEFAS)</b>. The original purpose for 
- the collection of this data was to support local governments in developing better ocean waste mangement strategies.  
+ the collection of this data was to support local governments in developing better ocean waste management strategies.  
  
  <b>The purpose of this project is to determine the viability of measured household MSW samples as feedstock for Plasma Gasification 
  Technology.</b> Plasma Gasification converts all MSW except metals and glass, into a <i>"Syngas"</i> (mostly CO and H2) which 
